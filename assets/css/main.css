@@ -1,7 +1,7 @@
 @import '../fonts/fonts.css';
 
 * {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', Inter, sans-serif;
 }
 :root {
     --white: #ffffff;
