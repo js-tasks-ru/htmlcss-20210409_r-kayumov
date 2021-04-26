@@ -4,10 +4,10 @@
     font-family: 'Roboto', sans-serif;
 }
 :root {
-    --fontColor: #ffffff;
-    --backgroundColor: #4263EB
+    --white: #ffffff;
+    --primary: #4263EB
 }
 button {
-    background: var(--backgroundColor);
-    color: var(--fontColor);
+    background: var(--primary);
+    color: var(--white);
 }

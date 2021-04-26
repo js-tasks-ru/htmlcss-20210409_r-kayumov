@@ -1,5 +1,5 @@
 /* Стилизация кнопки */
-button {
+.button_primary {
 height: 48px;
 width: 182px;
 left: 0;
